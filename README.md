@@ -19,6 +19,7 @@ I'm an aspiring Data Scientist with strong knowledge of coding concepts, Data St
 
 **- More about me : ...**
 - 💥 Ask me about programming, Data science, Future of Social Media and Space travel :)
+
 **- 📫 How to reach me: ...**
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MaGu1997)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurbanimanish/)
