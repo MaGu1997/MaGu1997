@@ -1,5 +1,5 @@
-# Hey There, I'm Manish. 
-### Stay Safe and Stay Happy. Scroll down to know more about me 👋💻
+# Hey There, I'm Manish 🎓😃👋
+### Stay Safe and Stay Happy. Scroll down to know more about me 💻
 
 ![Image](https://github.com/MaGu1997/Magu1997/blob/main/Picture.jpg?raw=true)
 I'm an aspiring Data Scientist with strong knowledge of coding concepts, Data Structures, Algorithms and Languages. Worked on multiple projects in Java, Python, SQL and Javascript.
