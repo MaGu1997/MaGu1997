@@ -2,19 +2,18 @@
 ### Stay Safe and Stay Happy. Scroll down to know more about me 💻
 
 ![Image](https://github.com/MaGu1997/Magu1997/blob/main/Picture.jpg?raw=true)
-I'm an aspiring Data Scientist with strong knowledge of coding concepts, Data Structures, Algorithms and Languages. Worked on multiple projects in Java, Python, SQL and Javascript.
+I'm an aspiring Full-Stack Developer with strong knowledge of coding concepts, Data Structures, Algorithms and Languages.
+Working as a Full-Stack developer with KaNoPe, paris. 
 
 **- 🎯 I’m currently focusing on ...**
 
-        Power BI, Dashboard Building, Deep Learning and Natural Language Processing.
+        Full-Stack development.
 
 ## Skills:
 ### Programming Language:
-- Python, Java, SQL, NodeJS, JavaScript, Scripting.
-### Analytics: 
-- Data Mining (Decision Tree, Random Forest, etc.), SVM, Deep Learning Models, Computer Vision (CNN, RNN, LSTM), Text Mining
-### Tools/ Frameworks: 
-- Tableau, Google Cloud Platform, MS Office, Microsoft Excel, MS PowerPoint, Git/GitHub, JIRA, Docker
+- NodeJS, React, ExpressJS, EmberJS, vanilla Javascript, Intermediate Typescript,, python, MongoDB, postrgres, GraphQL
+### Tools: 
+-  Git/GitHub, JIRA, Docker, VScode, PowerBI, Linux, Windows, AWS
 
 
 **- More about me : ...**
