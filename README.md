@@ -25,6 +25,8 @@ Working as a Full-Stack developer with KaNoPe, paris.
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_gurbani_manish_/)
 [![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Website&logoColor=brightgreen)](https://magu1997.github.io/)
 
+Phone: +33755209373
+Email: manyagurbani01@gmail.com
 
 **- ⚡ Fun fact: ...**
 I am a Tab person, not 4 Spaces :D
