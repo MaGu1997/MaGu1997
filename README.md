@@ -10,14 +10,25 @@ Working as a Full-Stack developer with KaNoPe, paris.
         Full-Stack development.
 
 ## Skills:
-### Programming Language:
-- NodeJS, React, ExpressJS, EmberJS, vanilla Javascript, Intermediate Typescript,, python, MongoDB, postrgres, GraphQL
+### Programming Languages (Frameworks & Databases):
+-  JavaScript (NodeJS, ReactJS, ExpressJS, EmberJS),
+-  python (Django, Flask, Pandas, Numpy), 
+-  Databases (MongoDB, postrgreSQL, GraphQL, MySQL), 
+-  Testing(Jest, Mocha, Chai, loadtest, React-testing)
+
 ### Tools: 
--  Git/GitHub, JIRA, Docker, VScode, PowerBI, Linux, Windows, AWS
+-  Amazon Web Services (AWS), 
+-  Git/GitHub, 
+-  JIRA, 
+-  Docker, 
+-  VScode, 
+-  PowerBI, 
+-  Linux, 
+-  Windows
 
 
 **- More about me : ...**
-- 💥 Ask me about programming, Data science, Future of Social Media and Space travel :)
+- 💥 Ask me about Programming, Sports, Future of Social Media and Space travel :)
 
 **- 📫 How to reach me: ...**
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MaGu1997)
