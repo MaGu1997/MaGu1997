@@ -33,6 +33,3 @@ I am a Software Engineer working in Contentsquare based in Paris, France. I have
 Phone: +33755209373
 Email: manyagurbani01@gmail.com
 
-**- ⚡ Fun fact: ...**
-I am a Tab person, not 4 Spaces :D
-
