@@ -27,7 +27,7 @@ I am a Software Engineer working in Contentsquare based in Paris, France. I have
 **- 📫 How to reach me: ...**
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MaGu1997)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gurbanimanish/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_gurbani_manish_/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/manishgurbani_/)
 [![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Website&logoColor=brightgreen)](https://magu1997.github.io/)
 
 Phone: +33755209373
