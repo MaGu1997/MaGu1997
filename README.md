@@ -2,33 +2,27 @@
 ### Stay Safe and Stay Happy. Scroll down to know more about me 💻
 
 ![Image](https://github.com/MaGu1997/Magu1997/blob/main/Picture.jpg?raw=true)
-I'm an aspiring Full-Stack Developer with strong knowledge of coding concepts, Data Structures, Algorithms and Languages.
-Working as a Full-Stack developer with KaNoPe, paris. 
+I am a Software Engineer working in Contentsquare based in Paris, France. I have completed my masters from EPITA, paris. I am very passionate about improving my coding skills and learning new tools and technologies every frequently.
 
-**- 🎯 I’m currently focusing on ...**
 
-        Full-Stack development.
 
 ## Skills:
 ### Programming Languages (Frameworks & Databases):
--  JavaScript (NodeJS, ReactJS, ExpressJS, EmberJS),
--  python (Django, Flask, Pandas, Numpy), 
--  Databases (MongoDB, postrgreSQL, GraphQL, MySQL), 
--  Testing(Jest, Mocha, Chai, loadtest, React-testing)
+- UiPath, Robot framework
+- JavaScript, Typescript, HTML 5, CSS 3
+- Node JS, MySQL
+- WebdriverIO, Selenium, Jenkins.
+- Docker, Jenkins, JIRA, GitHub, Datadog.
+- Microsoft office
+- Docker
+- Windows, Mac, VirtualBox
+- Github
+- AWS
 
-### Tools: 
--  Amazon Web Services (AWS), 
--  Git/GitHub, 
--  JIRA, 
--  Docker, 
--  VScode, 
--  PowerBI, 
--  Linux, 
--  Windows
 
 
 **- More about me : ...**
-- 💥 Ask me about Programming, Sports, Future of Social Media and Space travel :)
+- 💥 Ask me about Programming, Anime, Gaming, Future of Social Media and Space travel :)
 
 **- 📫 How to reach me: ...**
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MaGu1997)
