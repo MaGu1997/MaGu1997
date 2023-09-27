@@ -1,4 +1,4 @@
-# Hey There, I'm Manish 🎓😃👋
+# Hey There, I'm Manish 🎓👋
 ### Stay Safe and Stay Happy. Scroll down to know more about me 💻
 
 ![Image](https://github.com/MaGu1997/Magu1997/blob/main/Picture.jpg?raw=true)
