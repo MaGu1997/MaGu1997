@@ -10,7 +10,7 @@
 
 I work as a **Software Engineer at Contentsquare**, where I design, build, and optimize applications that enhance user experience. I hold a Master's degree in Computer Science from **EPITA, Paris**, and am passionate about developing efficient, scalable software solutions while continuously exploring new technologies and methodologies.
 
-### 📄 Here is my resume: [Resume / CV](https://drive.google.com/file/d/1GGDcKk5XD01sfdDMCeueVLnCCzOGk73Z/view?usp=sharing)
+### 📄 Here is my resume: [Resume / CV]((https://drive.google.com/file/d/1jDP079JY5WywU3Y0Z7D6IORjHnIJv_Ju/view?usp=sharing))
 
 ---
 
