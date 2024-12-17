@@ -50,16 +50,9 @@ I work as a **Software Engineer at Contentsquare**, where I design, build, and o
 - 🌱 Currently exploring **AI and Machine Learning** integrations in software.  
 - 🎮 Hobbies: Gaming, watching anime, and exploring space documentaries.
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=magu1997&show_icons=true&locale=en)
-
----
 
 ### 📞 Contact:
 - **Phone**: +33 755209373  
 - **Email**: [manyagurbani01@gmail.com](mailto:manyagurbani01@gmail.com)  
 
 ---
-
-This updated version reflects your latest experiences, skills, and contributions, while ensuring a professional yet approachable tone. Let me know if you want further refinements!
