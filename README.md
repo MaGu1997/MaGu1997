@@ -7,7 +7,7 @@
 
 I work as a **Software Engineer at Contentsquare**, where I design, build, and optimize applications that enhance user experience. I hold a Master's degree in Computer Science from **EPITA, Paris**, and am passionate about developing efficient, scalable software solutions while continuously exploring new technologies and methodologies.
 
-### 📄 Here is my resume: [Resume / CV](https://drive.google.com/file/d/1HFCtZ_4LgsjvTwmFZ6PwB6w7QIZ38hKh/view?usp=sharing)
+### 📄 Here is my CV: [Resume / CV](https://drive.google.com/file/d/1HFCtZ_4LgsjvTwmFZ6PwB6w7QIZ38hKh/view?usp=sharing)
 
 ---
 ### My projects list: [List of Projects](https://github.com/stars/MaGu1997/lists/projects)
