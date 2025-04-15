@@ -20,19 +20,19 @@ I work as a **Software Engineer in Test at Contentsquare**, where I design, buil
 
 ### Front-end Development
 
-- TypeScript,Javascript, HTML5, CSS3, ReactJS, VueJS, NextJS.
+- TypeScript, Javascript, HTML5, CSS3, ReactJS.
 
 ### Back-end Development
 
 - NodeJS, Python, PostgreSQL.
 
-### DevOps and Cloud Services
+### DevOps
 
-- Docker, Jenkins, Git, GitHub Actions (GHA), Grafana, Datadog
+- Docker, Jenkins, Git, GitHub Actions (GHA)
 
 ### Testing and Automation
 
-- WebdriverIO, Selenium, Jest, Allure.
+- WebdriverIO, Playwright, Cypress, Selenium, Jest, Allure, pytest.
 
 ### Project Management and Collaboration
 
