@@ -1,6 +1,6 @@
 # Hey There, I'm Manish 👋
 
-## A passionate Full-Stack Software Engineer in Test working in Paris, France 💻
+## A passionate Software Engineer in Test working in Paris, France 💻
 
 ### How to reach me:
 
